@@ -36,7 +36,7 @@ jobs:
         # Tenant Code displayed in the Profile section of ACCELQ
         tenantCode: peapod
         # This ID should come from the CI job you saved in ACCELQ application
-        jobId: 94494
+        jobId: 94594
         # Run Params(optional) should be JSON string form example: '{"username": "John Todd", "password": "bxW&=UVw"}'
         runParam: '{"BS URL": "bs://af20584f9a7f44c54801f942cea2c1ef2e17eaab"}'
   
