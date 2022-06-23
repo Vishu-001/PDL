@@ -28,15 +28,15 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v1.1
       with:
         # Your ACCELQ Application URL in the exact following format: https://<hostname>:<port_num>
-        appURL: https://peapoddigitallabs.accelq.io/
+        appURL: https://poc.accelq.io/
         # Your ACCELQ User ID
         userName: "kammakolu@yahoo.com"
         # API key available in Profile section of ACCELQ
-        apiKey: yssgZYpktmScqd9BD6udffazvxx3B3WSaq
+        apiKey: 7QT5d_iPjjD_w9H_0rbm9NhPK1BwrvoGc7iaZoiyHTU
         # Tenant Code displayed in the Profile section of ACCELQ
-        tenantCode: peapod
+        tenantCode: poc
         # This ID should come from the CI job you saved in ACCELQ application
-        jobId: 94594
+        jobId: 13976
         # Run Params(optional) should be JSON string form example: '{"username": "John Todd", "password": "bxW&=UVw"}'
-        runParam: '{"BS URL": "bs://af20584f9a7f44c54801f942cea2c1ef2e17eaab"}'
+
   
