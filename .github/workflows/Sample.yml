@@ -30,7 +30,7 @@ jobs:
         # Your ACCELQ Application URL in the exact following format: https://<hostname>:<port_num>
         appURL: https://poc.accelq.io/
         # Your ACCELQ User ID
-        userName: "kammakolu@yahoo.com"
+        userName: "vishveshwar.k@accelq.com"
         # API key available in Profile section of ACCELQ
         apiKey: 7QT5d_iPjjD_w9H_0rbm9NhPK1BwrvoGc7iaZoiyHTU
         # Tenant Code displayed in the Profile section of ACCELQ
